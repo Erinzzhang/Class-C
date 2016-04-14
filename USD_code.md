@@ -5,7 +5,7 @@
 >	美金轉換：大鈔換小抄的排列組合種類、數目	<br>
 >	$1.0 dollar to 25,10,5,1 cents	<br>
     
--				
+				
 ## main code			
 
 ###1 . #include,#define
