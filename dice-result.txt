@@ -1,0 +1,12 @@
+pn = 1,prob = 0.25
+count2 = 363
+out_d2 = 0.0363 ,realprob = 0.02778
+count12 = 269
+out_d12 = 0.0269 ,realprob = 0.02778
+請按任意鍵繼續 . . . 
+pn = 6,prob = 0.12
+count2 = 293
+out_d2 = 0.0293 ,realprob = 0.02778
+count12 = 211
+out_d12 = 0.0211 ,realprob = 0.02778
+請按任意鍵繼續 . . . 

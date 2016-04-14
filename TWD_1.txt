@@ -1,0 +1,86 @@
+請按任意鍵繼續 . . . 
+
+Part I. n = (TWD)99 格式:[ 50c , 10c, 1c] 
+	(0, 0, 99)	(0, 1, 89)	(0, 2, 79)	(0, 3, 69)	(0, 4, 59)	(0, 5, 49)	(0, 6, 39)	(0, 7, 29)	(0, 8, 19)	(0, 9, 9)	
+	(1, 0, 49)	(1, 1, 39)	(1, 2, 29)	(1, 3, 19)	(1, 4, 9)	........There are 15 combinations.(傳回 15 )
+
+Part I.NoPrint_摘要 (NT) 10.00 ........There are 2 combinations.(傳回 2 )
+Bonus -- Add One Quarter, 新值=20.00
+ 
+Part I.NoPrint_摘要 (NT) 20.00 ........There are 3 combinations.(傳回 3 )
+Bonus -- Add One Quarter, 新值=30.00
+ 
+Part I.NoPrint_摘要 (NT) 30.00 ........There are 4 combinations.(傳回 4 )
+Bonus -- Add One Quarter, 新值=40.00
+ 
+Part I.NoPrint_摘要 (NT) 40.00 ........There are 5 combinations.(傳回 5 )
+Bonus -- Add One Quarter, 新值=50.00
+ 
+Part I.NoPrint_摘要 (NT) 50.00 ........There are 7 combinations.(傳回 7 )
+Bonus -- Add One Quarter, 新值=60.00
+ 
+Part II . -各種組合
+	 Current n = 15.00 ........There are 2 combinations.(傳回 2 )
+	 After.. n = 15.00, (接到 2 ) 
+
+	 Current n = 20.00 ........There are 3 combinations.(傳回 3 )
+	 After.. n = 20.00, (接到 3 ) 
+
+	 Current n = 25.00 ........There are 3 combinations.(傳回 3 )
+	 After.. n = 25.00, (接到 3 ) 
+
+	 Current n = 30.00 ........There are 4 combinations.(傳回 4 )
+	 After.. n = 30.00, (接到 4 ) 
+
+	 Current n = 35.00 ........There are 4 combinations.(傳回 4 )
+	 After.. n = 35.00, (接到 4 ) 
+
+	 Current n = 40.00 ........There are 5 combinations.(傳回 5 )
+	 After.. n = 40.00, (接到 5 ) 
+
+	 Current n = 45.00 ........There are 5 combinations.(傳回 5 )
+	 After.. n = 45.00, (接到 5 ) 
+
+請按任意鍵繼續 . . . 
+
+Part I. n = (TWD)99 格式:[ 50c , 10c, 1c] 
+	(0, 0, 99)	(0, 1, 89)	(0, 2, 79)	(0, 3, 69)	(0, 4, 59)	(0, 5, 49)	(0, 6, 39)	(0, 7, 29)	(0, 8, 19)	(0, 9, 9)	
+	(1, 0, 49)	(1, 1, 39)	(1, 2, 29)	(1, 3, 19)	(1, 4, 9)	........There are 15 combinations.(傳回 15 )
+
+Part I.NoPrint_摘要 (NT) 10.00 ........There are 2 combinations.(傳回 2 )
+Bonus -- Add One Quarter, 新值=20.00
+ 
+Part I.NoPrint_摘要 (NT) 20.00 ........There are 3 combinations.(傳回 3 )
+Bonus -- Add One Quarter, 新值=30.00
+ 
+Part I.NoPrint_摘要 (NT) 30.00 ........There are 4 combinations.(傳回 4 )
+Bonus -- Add One Quarter, 新值=40.00
+ 
+Part I.NoPrint_摘要 (NT) 40.00 ........There are 5 combinations.(傳回 5 )
+Bonus -- Add One Quarter, 新值=50.00
+ 
+Part I.NoPrint_摘要 (NT) 50.00 ........There are 7 combinations.(傳回 7 )
+Bonus -- Add One Quarter, 新值=60.00
+ 
+Part II . -各種組合
+	 Current n = 15.00 ........There are 2 combinations.(傳回 2 )
+	 After.. n = 15.00, (接到 2 ) 
+
+	 Current n = 20.00 ........There are 3 combinations.(傳回 3 )
+	 After.. n = 20.00, (接到 3 ) 
+
+	 Current n = 25.00 ........There are 3 combinations.(傳回 3 )
+	 After.. n = 25.00, (接到 3 ) 
+
+	 Current n = 30.00 ........There are 4 combinations.(傳回 4 )
+	 After.. n = 30.00, (接到 4 ) 
+
+	 Current n = 35.00 ........There are 4 combinations.(傳回 4 )
+	 After.. n = 35.00, (接到 4 ) 
+
+	 Current n = 40.00 ........There are 5 combinations.(傳回 5 )
+	 After.. n = 40.00, (接到 5 ) 
+
+	 Current n = 45.00 ........There are 5 combinations.(傳回 5 )
+	 After.. n = 45.00, (接到 5 ) 
+
