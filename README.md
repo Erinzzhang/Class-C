@@ -23,5 +23,5 @@
 (b) 甲骰子指定點數(pn= 6 )的機率是 0.12,
 
 ###Q3:USD
-USD.md
-USD_code.md
+美金換小鈔：USD.md、USD_code.md
+台幣換小鈔：TWD.cpp
