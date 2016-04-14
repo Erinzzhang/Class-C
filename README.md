@@ -24,4 +24,5 @@
 
 ###Q3:USD
 美金換小鈔：USD.md、USD_code.md
-台幣換小鈔：TWD.cpp
+
+台幣換小鈔：TWD_1.c、TWD_2.c、TWD_3.c
