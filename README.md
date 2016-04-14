@@ -22,7 +22,7 @@
 (a) 甲骰子指定點數(pn= 1 )的機率是 0.25,
 (b) 甲骰子指定點數(pn= 6 )的機率是 0.12,
 
-###Q3:USD
+###Q3:change money
 美金換小鈔：USD.md、USD_code.md
 
 台幣換小鈔：TWD_1.c、TWD_2.c、TWD_3.c
